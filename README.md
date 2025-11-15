@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My name is Danya
 
-<!--
-**pushkin20191512-lab/pushkin20191512-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IM Fontend developer🙇, I'm currently studying on my own and I love learning new things and practicing in practice.
+I am currently learning many languages such as
+/HTML/CSS/JAVASCRIPT
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+° 👀I love creating new website projects
+° 🫡Join me to work as a team 
+° ...To contact me, you can write here
+°You can contact me on Telegram - @dushapsiha1
+I'll be posting a lot of my new projects here on GitHub.
+
